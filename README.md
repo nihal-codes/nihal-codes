@@ -1,16 +1,43 @@
-## Hi there 👋
+~ ❯ `whoami`
+hey -i'm nihal, two years into this whole programming thing and honestly, the beginning was quite rough, but now enjoying every bit of it.
+started from zero, & still figuring things out. 
+love building new projects, and currently exploring **ai/ml** and some stronger `python`
 
-<!--
-**nihal-codes/nihal-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+~ ❯ `nvim skills.txt`
+```yaml
+languages:
+  - Python          # daily driver
+  - C / C++         # love the control
+  - Dart            # dabbling
+ 
+python_stack:
+  - numpy
+  - pandas
+ 
+web:
+  frontend:  [ HTML, CSS, JavaScript, React* ]   # *still learning
+  backend:   [ FastAPI, passlib, python-jose ]
+ 
+databases:
+  - MySQL
+  - SQLite3
+ 
+tools:
+  os:        Linux  # 1.5+ years, no going back
+  vcs:       Git & GitHub
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+~ ❯ `ls -a interests/`
+
+building projects from scratch
+artifical intelligence and machine learning.
+messing with anything i see(lol).
+chess & flute.
+
+---
+
+~ ❯ `exit`
