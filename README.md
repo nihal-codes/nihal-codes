@@ -1,4 +1,4 @@
-~ ❯ `whoami`
+## ~ ❯ `whoami` <br>
 hey -i'm nihal, two years into this whole programming thing and honestly, the beginning was quite rough, but now enjoying every bit of it. <br>
 started from zero, & still figuring things out. <br>
 love building new projects, and currently exploring **ai/ml** and some stronger `python` <br>
