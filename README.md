@@ -34,7 +34,7 @@ tools:
 ~ ❯ `ls -a interests/`
 
 building projects from scratch<br>
-artifical intelligence and machine learning. <br>
+artificial intelligence and machine learning. <br>
 messing with anything i see(lol). <br>
 chess & flute. <br>
 
