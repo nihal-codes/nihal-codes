@@ -41,7 +41,3 @@ chess & flute. <br>
 ---
 
 ~ ❯ `exit`
-```mermaid
-flowchart TB
-  A(nihal-codes)
-```
