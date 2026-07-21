@@ -17,13 +17,14 @@ python_stack:
   - pandas
  
 web:
-  frontend:  [ HTML, CSS, JavaScript, React* ]   # *still learning
-  backend:   [ FastAPI, passlib, python-jose ]
+  frontend:  [ HTML, CSS, JavaScript, React ]   # *still learning
+  backend:   [ FastAPI, passlib, python-jose, Express ]
  
 databases:
   - MySQL
   - SQLite3
- 
+  - MongoDB
+
 tools:
   os:        Linux  # 1.5+ years, no going back
   vcs:       Git & GitHub
